@@ -129,7 +129,7 @@ var address;
 		
                 res.render('opendoor', {open:'Porta esta aberta', pessoa: pessoa});
             }
-        })
+        })g
 		
 	}
 	else

@@ -55,6 +55,7 @@ A escalabilidade, a próxima grande promessa da IOTA, é teoricamente garantida 
 
 `npm install iota.lib.js`
 
+`npm install body-parser`
 
 ###### Wallet Trinity
 
@@ -72,4 +73,13 @@ A escalabilidade, a próxima grande promessa da IOTA, é teoricamente garantida 
 
 #### Implmentação IOTA
 
+Iremos começar uma simpĺes implementação utilizando Iota.lib.js
+
+A implementação tem a função de receber um valor de transação em endereços gerador com a biblioteca após a confirmação do pagamento podemos ligar um led, abrir uma porta ou ligar um lcd.
+
+Os componentes listados serão plugados em um raspberry pi 3 model b+ 
+
+
+A implementação do código para o raspberry não foi concluida até o momento, entrar em contato 
+matheusmachadoufsc@gmail.com
 
