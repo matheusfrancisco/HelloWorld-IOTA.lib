@@ -1,2 +1,24 @@
-<h1>Example App: Home</h1>
+<h1>{{title}}</h1>
 
+<p> UFSC - Universidade Federal de Santa Catarina</p>
+<p>Neste exemplo você irá pagar 1 IOTA e irá ligar um led em um raspberry ou um display LCD</p>
+<p>Você também pode abrir uma porta, lembrando que você pode executar apenas uma função de cada vez</p>
+<p> Isto é apenas um exemplo de como usar IOTA em IoT</p>
+
+<form action="/ligarluz" method="post">
+    Insira ON para ligar a luz<input name="luz" type="text" /> <br />
+    <input value="ligar LUZ" type="submit" />
+</form>
+
+
+
+<form action="/ligarlcd" method="post">
+    Insira ON para ligar display LCD<input name="lcd" type="text" /> <br />
+    <input value="ligar LCD" type="submit" />
+</form>
+
+<form action="/opendoor" method="post">
+    Abrir a porta OPEN<input name="porta" type="text" /> <br />
+    Nome da pessoa <input name="pessoa" type="text"/> <br/>
+    <input value="ligar LCD" type="submit" />
+</form>
