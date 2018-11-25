@@ -16,7 +16,7 @@ Usando a biblioteca em si é realmente muito simples. Existe uma documentação 
 
 #### How to get the library
 
-[Link da biblioteca IOTA.lib.js](https://github.com/iotaledger/iota.lib.js"Clique e acesse agora!")
+![Link da biblioteca IOTA.lib.js](https://github.com/iotaledger/iota.lib.js)
 
 
 ##### npm/nodejs
@@ -50,6 +50,8 @@ A escalabilidade, a próxima grande promessa da IOTA, é teoricamente garantida 
 
 * Instalar express e handlebars e iota.lib.js
 `npm install express-handlebars`
+
 `npm install express`
+
 `npm install iota.lib.js`
 
