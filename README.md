@@ -47,11 +47,29 @@ A escalabilidade, a próxima grande promessa da IOTA, é teoricamente garantida 
 > https://www.edivaldobrito.com.br/node-js-no-linux/
 > https://nodejs.org/es/download/package-manager/
 
-
+###### Libs
 * Instalar express e handlebars e iota.lib.js
 `npm install express-handlebars`
 
 `npm install express`
 
 `npm install iota.lib.js`
+
+
+###### Wallet Trinity
+
+* Windows 
+> https://github.com/iotaledger/trinity-wallet/releases/download/0.4.2/trinity-desktop-0.4.2.exe
+
+* MAC
+> https://github.com/iotaledger/trinity-wallet/releases/download/0.4.2/trinity-desktop-0.4.2.dmg
+
+* Linux
+> https://github.com/iotaledger/trinity-wallet/releases/download/0.4.2/trinity-desktop-0.4.2.AppImage
+
+
+
+
+#### Implmentação IOTA
+
 
